@@ -2,7 +2,7 @@
 
 namespace Dso\Cielo\Nodes;
 
-use namespace Dso\Cielo\Nodes\TransactionNode;
+use Dso\Cielo\Nodes\TransactionNode;
 
 /**
  * @author		João Batista Neto
