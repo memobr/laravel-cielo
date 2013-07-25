@@ -2,7 +2,7 @@
 
 namespace Dso\Cielo\Nodes;
 
-use namespace Dso\Cielo\Nodes\XMLNode;
+use Dso\Cielo\Nodes\XMLNode;
 
 /**
  * @author		João Batista Neto
